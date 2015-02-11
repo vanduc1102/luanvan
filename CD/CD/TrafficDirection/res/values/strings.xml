@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GPSActivity!</string>
+    <string name="app_name">Traffic Forecast and Guide</string>
+    <string name="show_current_menu">Traffic Infor</string>
+    <string name="build_route_menu">Build Route</string>
+    <string name="forecast_menu">Forecast</string>
+    <string name="turn_power_menu">Tracking</string>
+    <string name="on">Start Tracking</string>
+    <string name="off">Stop Tracking</string>
+    <string name="trackList_menu">Track List</string>
+    <string name="settings_menu">Settings</string>
+    <string name="button_start">Start Tracking</string>
+    <string name="button_stop">Stop Tracking</string>
+    <string name="menu_settings">Setting</string>
+    <string name="velocity_overlay">Velocity</string>
+    <string name="density_overlay">Density</string>
+    <string name="overlay_ok">OK</string>
+	<string name="show_current_dialog_title">Overlay Selection</string>
+	<string name="dialog_input_direct_title">Input Address</string>
+	<string name="input_direct_mylocation">My Location</string>
+	<string name="input_direct_endpoint">End Point</string>
+	<string name="input_direct_pointonmap">Point on map</string>
+	<string name="setting_gps">Setting GPS</string>
+	<string name="gps_not_enable_yet">GPS is not enabled. Do you want to go to settings menu?</string>
+	<string name="tracking_controls">Tracking Controls</string>
+	<string name="text_minutes">Minutes</string>
+	<string name="dialog_forecast_ok">OK</string>
+	<string name="dialog_forecast_title">Enter the time in minutes</string>
+	<string name="listfile_activity_title">List Files GPX Tracking</string>
+	<string name="touch_activity_title">Press on the screen to select point</string>
+	<string name="showtracking_activity_title">Tracking Of User</string>
+	<string name="title_activity_buildroad">Build Road</string>
+	<string name="alert_dialog_two_buttons_title">Do you want to quit ?</string>
+	<string name="alert_dialog_ok">OK</string>
+	<string name="alert_dialog_cancel">Cancel</string>
+	<string name="please_input_startpoint">Please insert start point!!!</string>
+	<string name="please_input_endpoint">Please insert end point!!!</string>
+	<string name="please_input_time">Please enter the time </string>
+	<string name="error_input_time">The time must between 10 and 120 minutes</string>
+	<string name="alert_dialog_single_choice">Select Map Mode</string>
+	<string name="trafficjam_activity_title">Traffic Jam Prediction</string>
+	<string name="tap_to_choose">Choose</string>
+	<string name="pointed_on_map">Pointed on Map</string>
+	<string name="cannot_connect_to_server">Cannot connect to server</string>
+	<string name="traffic_infor_activity_title">Current State Of Traffic</string>
+	<string name="main_activity_title_bar">Traffic Forecast and Guide</string>
+	<string name="build_road_activity_title">Direction Found</string>
+	
+</resources>
